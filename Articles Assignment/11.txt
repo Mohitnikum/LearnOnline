@@ -1,0 +1,13 @@
+What is Flow of code execution in JavaScript?
+
+-The Execution Context contains the code that's currently 
+ running, and everything that aids in its execution. During
+ the Execution Context run-time, the specific code gets 
+ parsed by a parser, the variables and functions are stored
+ in memory, executable byte-code gets generated, and the 
+ code gets executed.
+
+ -Note that the code in your web documents is generally 
+ loaded and executed in the order it appears on the page.
+ Errors may occur if JavaScript is loaded and run before
+ the HTML and CSS that it is intended to modify.

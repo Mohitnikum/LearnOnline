@@ -1,0 +1,6 @@
+What is Input Elements?
+
+-The input element represents a typed data field,
+ usually with a form control to allow the user to
+ edit the data. The type attribute controls the 
+ data type (and associated control) of the element.

@@ -1,0 +1,9 @@
+What is Media Query?
+
+-Media queries are a key part of responsive
+ web design, as they allow you to create different
+ layouts depending on the size of the viewport,
+ but they can also be used to detect other things
+ about the environment your site is running on,
+ for example whether the user is using a touchscreen
+ rather than a mouse.

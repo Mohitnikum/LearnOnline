@@ -1,0 +1,26 @@
+What is JavaScript Array and it’s methods?
+
+-An array is a collection of elements or items.
+ Arrays store data as elements and retrieve them
+ back when you need them. The array data structure
+ is widely used in all programming languages that
+ support it.
+
+ Methods -
+ -concat()
+ -copyWithin()
+ -every()
+ -filter()
+ -flat()
+ -flatMap()
+ -forEach()
+ -indexOf()
+ -lastIndexOf()
+ -map()
+ -reduce()
+ -reduceRight()
+ -reverse()
+ -slice()
+ -some()
+ -sort()
+ -splice()
